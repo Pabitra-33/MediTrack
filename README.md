@@ -2,7 +2,7 @@
 ## A Java-Based Hospital Management System with MySQL.
 MediTrack is a comprehensive hospital management system built using Core Java, JDBC, and MySQL, designed to streamline patient records, appointments, and staff management efficiently.
 
-Key Features:
+Key Features:<br>
 ✅ Patient Management – Add, update, and track patient records seamlessly.<br>
 ✅ Doctor & Staff Management – Maintain staff details, schedules, and roles.<br>
 ✅ Database Integration – Uses JDBC with MySQL for secure and optimized data handling.<br>
